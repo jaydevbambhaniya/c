@@ -1,5 +1,4 @@
-
-
+//Wap a C program to calculate factorial of a number//
 #include<stdio.h>
   main()
  {
